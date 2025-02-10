@@ -105,6 +105,11 @@ nav ul li:hover {
     color: var(--gray);
     border: 1px solid var(--gray);
 }
+.secondary-btn:hover {
+    /* background: transparent; */
+    color: white;
+    border: 1px solid var(--gray);
+}
 
 .shopping p {
     font-size: 14px;
